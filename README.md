@@ -5,6 +5,8 @@
 Hangman-game (with french words)
 Code written in python3 with graphics user interface (GUI) using Tkinter.
 
+## Hangman
+To learn more about this game, visit https://en.wikipedia.org/wiki/Hangman_(game)
 
 ## Repository content
 To play the game save the following files in the same directory.
