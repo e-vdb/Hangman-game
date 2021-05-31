@@ -12,4 +12,4 @@ To play the game save the following files in the same directory.
 * Images : folder with images for GUI 
 * liste_mots.txt : text file with French words
 
-Images and text files from https://www.apprendre-en-ligne.net/pj/pendug/index.html 
+Images and list of words are from https://www.apprendre-en-ligne.net/pj/pendug/index.html 
