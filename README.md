@@ -10,7 +10,7 @@ To learn more about this game, visit https://en.wikipedia.org/wiki/Hangman_(game
 
 ## Repository content
 To play the game save the following files in the same directory.
-* pendu_gf.py : Python script
+* hangmanGame.py : Python script
 * Images : folder with images for GUI  (from https://www.apprendre-en-ligne.net/pj/pendug/index.html )
 * liste_mots.txt : text file with French words (from https://www.apprendre-en-ligne.net/pj/pendug/index.html )
 * ukenglish.txt : text file with English words (from http://www.gwicks.net/dictionaries.htm)
