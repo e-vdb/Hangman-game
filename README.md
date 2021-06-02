@@ -21,7 +21,9 @@ To play the game save the following files in the same directory.
 
 ### Interface
 
-![interface](https://user-images.githubusercontent.com/82372483/120188309-3f2e4c80-c216-11eb-81dc-d5da2f707549.png)
+![interface](https://user-images.githubusercontent.com/82372483/120477602-41c2aa80-c3ac-11eb-96ea-5fb873bab332.png)
+
+You can change the game language from the menu.
 
 ### Example of game
 
@@ -30,6 +32,11 @@ To play the game save the following files in the same directory.
    *  Red : the word does not contain this letter
    *  Blue : the word contains this letter
    *  Gray : the letter has not been played yet 
+
+![game_eng](https://user-images.githubusercontent.com/82372483/120477710-5f900f80-c3ac-11eb-9563-ee4c3a664f8a.png)
+
 * Hanged man image updated at each wrong proposition
 
-![game](https://user-images.githubusercontent.com/82372483/120188499-7d2b7080-c216-11eb-85cc-866d06202530.png)
+![game_fr](https://user-images.githubusercontent.com/82372483/120477774-7171b280-c3ac-11eb-888f-6e9d28ac383a.png)
+
+
