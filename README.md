@@ -2,7 +2,8 @@
 
 
 ## Summary
-Hangman-game (with french words)
+Hangman-game with english or french words 
+
 Code written in python3 with graphics user interface (GUI) using Tkinter.
 
 ## Hangman
