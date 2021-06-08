@@ -24,7 +24,9 @@ To play the game save the following files in the same directory.
 
 ![interface](https://user-images.githubusercontent.com/82372483/120477602-41c2aa80-c3ac-11eb-96ea-5fb873bab332.png)
 
+### Language
 You can change the game language from the menu.
+
 
 ### Example of game
 
