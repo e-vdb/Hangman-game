@@ -43,3 +43,6 @@ You can change the game language from the menu.
 ![game_fr](https://user-images.githubusercontent.com/82372483/120477774-7171b280-c3ac-11eb-888f-6e9d28ac383a.png)
 
 
+## Tasks list
+- [x] Implement python script
+- [ ] Document code
